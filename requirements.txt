@@ -1,4 +1,5 @@
 Django==1.3
 pil
+python-dateutil<=1
 dateutils
 feedparser
